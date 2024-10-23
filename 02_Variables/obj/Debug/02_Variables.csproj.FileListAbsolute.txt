@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\02_Variables\bin\Debug\02_Variables.exe.config
+D:\C# Repository\C# Repoo\02_Variables\bin\Debug\02_Variables.exe
+D:\C# Repository\C# Repoo\02_Variables\bin\Debug\02_Variables.pdb
+D:\C# Repository\C# Repoo\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\02_Variables\obj\Debug\02_Variables.exe
+D:\C# Repository\C# Repoo\02_Variables\obj\Debug\02_Variables.pdb

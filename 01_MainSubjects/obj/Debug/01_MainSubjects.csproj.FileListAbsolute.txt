@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+D:\C# Repository\C# Repoo\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+D:\C# Repository\C# Repoo\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+D:\C# Repository\C# Repoo\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+D:\C# Repository\C# Repoo\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
