@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+D:\C# Repository\C# Repoo\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+D:\C# Repository\C# Repoo\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+D:\C# Repository\C# Repoo\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+D:\C# Repository\C# Repoo\03_MakingDecision\obj\Debug\03_MakingDecision.pdb

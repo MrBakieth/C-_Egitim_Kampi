@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+D:\C# Repository\C# Repoo\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+D:\C# Repository\C# Repoo\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+D:\C# Repository\C# Repoo\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+D:\C# Repository\C# Repoo\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

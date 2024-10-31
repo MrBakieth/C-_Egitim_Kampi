@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\06_Arrays\bin\Debug\06_Arrays.exe.config
+D:\C# Repository\C# Repoo\06_Arrays\bin\Debug\06_Arrays.exe
+D:\C# Repository\C# Repoo\06_Arrays\bin\Debug\06_Arrays.pdb
+D:\C# Repository\C# Repoo\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\06_Arrays\obj\Debug\06_Arrays.exe
+D:\C# Repository\C# Repoo\06_Arrays\obj\Debug\06_Arrays.pdb
