@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+D:\C# Repository\C# Repoo\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+D:\C# Repository\C# Repoo\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+D:\C# Repository\C# Repoo\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+D:\C# Repository\C# Repoo\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
