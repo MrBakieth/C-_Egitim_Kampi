@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\09_ Methods\bin\Debug\09_ Methods.exe.config
+D:\C# Repository\C# Repoo\09_ Methods\bin\Debug\09_ Methods.exe
+D:\C# Repository\C# Repoo\09_ Methods\bin\Debug\09_ Methods.pdb
+D:\C# Repository\C# Repoo\09_ Methods\obj\Debug\09_ Methods.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\09_ Methods\obj\Debug\09_ Methods.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\09_ Methods\obj\Debug\09_ Methods.exe
+D:\C# Repository\C# Repoo\09_ Methods\obj\Debug\09_ Methods.pdb
