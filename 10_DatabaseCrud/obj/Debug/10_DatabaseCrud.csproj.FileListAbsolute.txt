@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+D:\C# Repository\C# Repoo\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+D:\C# Repository\C# Repoo\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+D:\C# Repository\C# Repoo\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+D:\C# Repository\C# Repoo\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
