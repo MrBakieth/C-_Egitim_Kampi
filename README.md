@@ -1,5 +1,5 @@
 
-C# Eğitim Kampı
+👨‍💻 C# Eğitim Kampı
 
 Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 9 proje, programlama becerilerimi geliştirmemde önemli bir rol oynadı. Bu projeler, temel ve ileri düzey C# kavramlarını uygulamalı olarak öğrenmeme yardımcı oldu. Her bir proje, belirli bir konuyu derinlemesine anlamamı sağlayarak yazılım geliştirme yeteneklerimi daha da güçlendirdi. Daha fazlası için aşağıdaki projelere bakabilirsiniz:
 
