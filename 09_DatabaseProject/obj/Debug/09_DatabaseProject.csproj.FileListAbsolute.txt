@@ -1,0 +1,7 @@
+D:\C# Repository\C# Repoo\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe.config
+D:\C# Repository\C# Repoo\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe
+D:\C# Repository\C# Repoo\09_DatabaseProject\bin\Debug\09_DatabaseProject.pdb
+D:\C# Repository\C# Repoo\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.AssemblyReference.cache
+D:\C# Repository\C# Repoo\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+D:\C# Repository\C# Repoo\09_DatabaseProject\obj\Debug\09_DatabaseProject.exe
+D:\C# Repository\C# Repoo\09_DatabaseProject\obj\Debug\09_DatabaseProject.pdb
