@@ -38,3 +38,7 @@ Son projede, geri değer döndüren metotlarla çalıştım. Kullanıcıdan ald�
 📍Proje 9 - Veritabanı MS SQL Kullaanarak Bilgi Sistemi 
 
 Bu projede, veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarıyla veritabanına bağlanıp, sorgular çalıştırarak veritabanı işlemleri gerçekleştirdim. Bu proje, veritabanı işlemleri ve veri akışı hakkında önemli bilgiler edinmemi sağladı ve veritabanı yönetimi konusundaki yetkinliğimi artırdı.
+
+📍Proje 10 - CRUD İşlemleri Ve Veritabanı Üzerinde Çalışmalar
+
+Bu projede, CRUD (Create, Read, Update, Delete) işlemleri hakkında bilgi edindim ve bu işlemleri veritabanı üzerinde uygulayarak öğrendiklerimi pekiştirdim. Veritabanı üzerinde veri ekleme, okuma, güncelleme ve silme işlemlerini gerçekleştirerek, veri yönetimi konusundaki becerilerimi geliştirdim. Bu deneyim, veritabanı işlemlerinin temelini sağlam bir şekilde anlamamı sağladı.
